@@ -1,0 +1,46 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+.sembunyikan {
+  display: none;
+}
+
+#bgsholat{
+  background: rgb(16, 165, 182);
+}
+
+@import url(./kas.css);
+
+@import url(./banner.css);
+@import url(./jumbotron.css);
+@import url(./fasilitas.css);
+@import url(./navbar.css);
+@import url(./body.css);
+@import url(./btn.css);
+@import url(./dashboard.css);
+@import url(./login.css);

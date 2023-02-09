@@ -1,0 +1,30 @@
+/* .fasilitas{
+    background-color: beige;
+} */
+#bgfasilitas{
+    background-color: rgb(255, 255, 255);
+}
+
+#fasilitas h3 {
+    font-size: 40px;
+    color: orange   ;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    
+text-shadow: 1px 1px 1px black;
+border-bottom: 3px solid red;
+width: 150px;
+}
+
+#sejarahbg {
+    background-color: #00093f;
+}
+
+#sejarahbg2 {
+    background-color: white;
+}
+
+/* #sejarahbg3 {
+    background-color: rgb(2, 6, 115);
+} */
